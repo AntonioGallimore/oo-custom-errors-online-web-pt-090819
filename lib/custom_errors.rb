@@ -23,8 +23,6 @@ class Person
     def message "you must give the get_married method an argument of an instance of the peron class!"
      end 
   end 
-
-
 end
 
 beyonce = Person.new("Beyonce")
